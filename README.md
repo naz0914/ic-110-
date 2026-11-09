@@ -1,9 +1,7 @@
 # CAD/VLSI Circuit Design 期末專題：心電圖偵測引擎 (ECG Detection Engine, EDE)
 
-- **學生姓名**：陳沐德
-- **所屬系所**：國立成功大學 醫學工程研究所
-- **指導老師**：程德勝 教授
 - **專題題目**：教育部 110 學年度全國大學校院積體電路設計競賽 (2022 IC Design Contest) 研究所組決賽題目 —— **ECG Detection Engine (EDE)**
+- **所屬單位**：國立中興大學
 
 ---
 

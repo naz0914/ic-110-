@@ -106,7 +106,7 @@ def main():
         header = s.header
         hp = header.paragraphs[0]
         hp.alignment = WD_ALIGN_PARAGRAPH.RIGHT
-        hrun = hp.add_run("CAD/VLSI Circuit Design 期末報告構想說明書 | 國立成功大學醫學工程研究所")
+        hrun = hp.add_run("CAD/VLSI Circuit Design 期末報告構想說明書 | 國立中興大學醫學工程研究所")
         format_run(hrun, font_name="微軟正黑體", font_size=8, color_rgb=(130, 130, 130))
 
     # --- 文件主標題 ---
